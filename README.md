@@ -65,23 +65,50 @@ I build hands-on labs that simulate real-world cyber threats and defensive strat
 
 ---
 
-## 📂 Featured Work
+## 🧪 Practical Experience 
 
-### 🔵 Blue Team Security Labs
+### 🔵 Threat Detection & Network Analysis (Blue Team Labs)
 
-Simulated threat detection and network monitoring using real-world attack scenarios.
+* Performed network reconnaissance using `Nmap` to identify active hosts and exposed services
+* Captured and analysed network traffic using `Wireshark` to understand TCP/IP behaviour
+* Identified suspicious patterns and potential vulnerabilities within simulated environments
+* Applied analytical thinking to interpret packet data and security risks
 
-### 🔴 Enterprise Penetration Testing
+🎯 Outcome: Improved ability to detect and analyse network-based threats
 
-Identified vulnerabilities and produced structured remediation reports.
+---
 
-### 🏢 Secure Network Architecture Lab
+### 🔴 Vulnerability Assessment & Penetration Testing
 
-Built enterprise environments using Active Directory and secure configurations.
+* Conducted vulnerability assessments using `Nmap` and `Metasploit`
+* Identified critical and high-risk vulnerabilities in a simulated enterprise environment
+* Analysed system weaknesses and potential attack vectors
+* Documented findings and recommended remediation strategies
 
-### 📊 Cyber Risk Analysis (ISO 27001)
+🎯 Outcome: Strengthened understanding of how attackers exploit systems and how to mitigate risks
 
-Conducted risk assessments and mapped controls to industry standards.
+---
+
+### 🏢 Secure Network Architecture (GNS3 Lab)
+
+* Designed and configured a virtual enterprise network using `GNS3`
+* Implemented `Active Directory`, domain structures, and access controls
+* Applied security configurations including firewall rules and user policies
+* Simulated real-world enterprise infrastructure and security controls
+
+🎯 Outcome: Developed practical skills in securing enterprise network environments
+
+---
+
+### 📊 Cyber Risk Analysis & GRC (ISO 27001)
+
+* Conducted a risk-based security assessment aligned with ISO 27001
+* Identified critical risks such as exposed RDP, FTP vulnerabilities, and RPC services
+* Evaluated risks based on likelihood and impact
+* Mapped findings to ISO 27001 controls and recommended mitigation strategies
+
+🎯 Outcome: Built strong understanding of risk management and compliance frameworks
+
 
 ---
 
