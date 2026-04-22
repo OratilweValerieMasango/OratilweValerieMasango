@@ -1,6 +1,6 @@
 # cyber-defense-simulation-lab
 # Oratilwe Valerie Masango
-
+<img src="https://github.com/valerie-masango/valerie-masango/blob/main/banner.png" width="100%" />
 Cybersecurity Student | Blue Team | GRC (ISO 27001)
 
 ---
