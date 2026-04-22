@@ -16,7 +16,7 @@ Focused on protecting systems, managing risk, and enabling trust.
 
 ## 🔍 About Me
 
-I am a cybersecurity student specialising in **Security & Network Engineering**, with a focus on:
+I focus on cybersecurity analysis, threat detection, and risk management within simulated enterprise environments.
 
 🔎 Threat Detection & Analysis
 
@@ -26,7 +26,7 @@ I am a cybersecurity student specialising in **Security & Network Engineering**,
 
 📑 Governance, Risk & Compliance (ISO 27001)
 
-I build hands-on labs that simulate real-world cyber threats and defensive strategies.
+I build hands-on labs that simulate real-world cyber threats and defensive strategies, applying both technical analysis and risk-based decision-making to improve security posture.
 
 ---
 
