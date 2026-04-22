@@ -10,7 +10,6 @@ Cybersecurity Student | Blue Team | GRC (ISO 27001)
 ## About Me
 
 I am a cybersecurity student specialising in Security & Network Engineering with a focus on **threat detection, risk analysis, and enterprise security**.
-
 I build hands-on labs simulating real-world cyber attacks and defensive strategies using tools like Kali Linux, Wireshark, and GNS3.
 
 ---
